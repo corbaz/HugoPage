@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>JCC Producciones</title>
-    <link>/</link>
+    <link>https://corbaz.github.io/HugoPage/</link>
     <description>Recent content on JCC Producciones</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>es</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <language>es</language><atom:link href="https://corbaz.github.io/HugoPage/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>/</link>
+      <link>https://corbaz.github.io/HugoPage/</link>
       <pubDate>Thu, 26 Nov 2020 07:35:53 -0300</pubDate>
       
-      <guid>/</guid>
+      <guid>https://corbaz.github.io/HugoPage/</guid>
       <description>Pagina Principal </description>
     </item>
     
