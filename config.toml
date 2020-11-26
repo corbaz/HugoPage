@@ -1,0 +1,22 @@
+publishDir = "docs"
+
+baseURL = "/"
+languageCode = "es"
+defaultContentLanguage = "es"
+title = "JCC Producciones"
+
+theme = "tale"
+
+[menu]
+  [[menu.main]]
+	identifier = "contacto"
+	name = "Contact"
+	title = "Pagina Contacto"
+	url = "/contacto/"
+	weight = 0
+  [[menu.main]]
+	identifier = "posts"
+	name = "Blog"
+	title = "Pagina de Blog"
+	url = "/posts/"
+	weight = 1
